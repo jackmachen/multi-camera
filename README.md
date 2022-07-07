@@ -68,4 +68,18 @@
 <img src="/video/测试效果3.gif" width="1104"/>
 </div>
 
+***
+
+## 最后
+全部的代码和模型文件放到了百度云盘和天翼网盘中
+**百度网盘:**
+
+        链接：https://pan.baidu.com/s/11-H3JM30q1oaqi32NktRYA 
+        提取码：apnb
+**天翼网盘:**
+
+        https://cloud.189.cn/t/YbArmmyueEne (访问码:ptu1)
+
+
+
 
