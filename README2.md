@@ -1,3 +1,14 @@
+## 准备工作
+下载yolo4.h5文件
+
+文件已经分享到百度云盘
+
+    链接：https://pan.baidu.com/s/1r6EjtMv30uVs-JLZ-a50zA 
+    提取码：3lvv
+
+把下载完的yolo4.h5文件放进**traffic_counting/model_data**和**object_counting/model_data**即可
+
+***
 ## 运行
 在 **traffic_counting** 文件夹下
 
